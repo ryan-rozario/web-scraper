@@ -1,3 +1,3 @@
-# web-scrapper
+# web-scraper
 
 Ebay Synthessence Project
